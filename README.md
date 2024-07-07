@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> # I'm not the original creator of this library, this fork exists only to publish it to cargo.
+> The Apache license allows redistributing, but I'm not sure about publishing, so please contact me if you want me to remove it
+
+
 <div align="center">
 
 # 🔮 Magic Light 2D – experimental dynamic 2D global illumination system for Bevy Engine.
