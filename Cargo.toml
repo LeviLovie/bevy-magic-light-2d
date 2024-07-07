@@ -1,5 +1,12 @@
 [package]
 edition = "2021"
+description = "Experiment with computing 2D shading, lighting and shadows with Bevy Engine"
+homepage = "https://github.com/zaycev/bevy-magic-light-2d"
+repository = "https://github.com/LeviLovie/bevy-magic-light-2d"
+authors = ["Vladimir Zaytsev"]
+license = "Apache-2.0"
+license-file = "LICENSE"
+readme = "README.md"
 name = "bevy_magic_light_2d"
 version = "0.7.0"
 
